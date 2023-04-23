@@ -3,7 +3,7 @@
 Prerequirements:
 Python3+,pip3
 1) We have to install FastApi using the terminal commands:
- Markup : * cd src/
+Markup : * cd src/
           * pip install fastapi
           * pip install "uvicorn[standard]"
 2) Run the file using the command:
