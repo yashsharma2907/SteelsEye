@@ -40,8 +40,6 @@ def get_trade(assetClass: Union[str, None] = None,
         value = value[(value['trade_date_time'] < end)]
     if start:
         value = value[(value['trade_date_time'] > start)]
-    if maxPrice and minPrice:
-        value = value[(value['price']<=maxPrice) and (value['price'] >= minPrice)]
     if maxPrice:
         value = value[(value['price'] < maxPrice)]
     if minPrice:
