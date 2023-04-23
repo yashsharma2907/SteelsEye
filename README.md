@@ -3,13 +3,13 @@
 Prerequirements:
 Python3+,pip3
 1) We have to install FastApi using the terminal commands:
-Markup : * cd src/
-          * pip install fastapi
-          * pip install "uvicorn[standard]"
-2) Run the file using the command:
+2)cd src/
+3)pip install fastapi
+4)pip install "uvicorn[standard]"
+##Run the file using the command:
 uvicorn api:app --reload
-3) I have created a data.csv file for fetching the data into it.
-4) I have created routes "/trades/filter" and implement callback function inside it using conditional statements and loops ,
+## I have created a data.csv file for fetching the data into it.
+## I have created routes "/trades/filter" and implement callback function inside it using conditional statements and loops ,
 i have implemented the search operations for "asset_class","start","end","maxPrice","minPrice","tradeType".
 ## Testing:
 ##For testing Swagger UI is used :
