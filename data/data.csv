@@ -1,0 +1,16 @@
+asset_class,counterparty,instrument_id,instrument_name,trade_date_time,price,buySellIndicator,quantity,trade_id,trader
+Equities,Goldman Sachs,GOOGL,Alphabet Inc.,2022-01-10 09:30:00,3500.00,Buy,100,TRD001,John Smith
+Fixed Income,JP Morgan,US00123QAE06,U.S. Treasury Bond,2022-01-11 10:15:00,99.25,Buy,1000,TRD002,Jane Doe
+Futures,Citigroup,GC1!,Gold Futures,2022-01-12 11:00:00,1800.50,Sell,5,TRD003,Mark Johnson
+Options,Morgan Stanley,AMZN210318P03200000,Amazon.com Inc. Put Option,2022-01-13 12:45:00,12.50,Buy,10,TRD004,Sarah Lee
+ETFs,Bank of America,IWM,iShares Russell 2000 ETF,2022-01-14 13:30:00,240.00,Sell,50,TRD005,Alex Chen
+Equities,Goldman Sachs,NFLX,Netflix Inc.,2022-01-15 14:15:00,560.25,Buy,75,TRD006,John Smith
+Fixed Income,JP Morgan,US00123QAF80,U.S. Treasury Bond,2022-01-16 09:30:00,103.50,Sell,500,TRD007,Jane Doe
+Futures,Citigroup,ZB1!,U.S. Treasury Bond Futures,2022-01-17 10:15:00,139.50,Buy,2,TRD008,Mark Johnson
+Options,Morgan Stanley,FB210415C00300000,Facebook Inc. Call Option,2022-01-18 11:00:00,8.25,Sell,5,TRD009,Sarah Lee
+ETFs,Bank of America,XLE,Energy Select Sector SPDR Fund,2022-01-19 12:45:00,80.50,Buy,100,TRD010,Alex Chen
+Equities,Goldman Sachs,GOOGL,Alphabet Inc.,2022-01-20 16:45:00,2865.75,Sell,200,TRD011,John Smith
+Fixed Income,JP Morgan,US00123QAE06,U.S. Treasury Bond,2022-01-21 13:30:00,100.25,Buy,500,TRD012,Jane Doe
+Futures,Citigroup,GC1!,Gold Futures,2022-01-22 10:00:00,1850.50,Sell,2,TRD013,Mark Johnson
+Options,Morgan Stanley,AMZN210318P03200000,Amazon.com Inc. Put Option,2022-01-23 12:00:00,5.50,Buy,5,TRD014,Sarah Lee
+ETFs,Bank of America,IWM,iShares Russell 2000 ETF,2022-01-24 14:15:00,market,Buy,1000,TRD015,Alex Chen
